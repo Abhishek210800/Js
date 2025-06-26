@@ -20,7 +20,11 @@ let someNumber = 33;
 
 let stringsomeNumber = String(someNumber);
 
-console.log( stringsomeNumber);
-console.log(typeof stringsomeNumber);
+// console.log( stringsomeNumber);
+// console.log(typeof stringsomeNumber);
 
+let gameCounter = 200;
+++gameCounter;
+//this will increment the value by 1...
+console.log(gameCounter);
 
