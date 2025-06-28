@@ -44,3 +44,13 @@ const myFunction = function (){
   
 }
 
+
+
+//************************** Memory ********************************** */
+//Stack(primitive)  , Heap(non-primitive)
+
+
+//In stack we got a copy of anything
+
+
+//But in the heap we got the reference of something not the copy
