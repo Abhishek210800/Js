@@ -15,7 +15,6 @@ const indHeroes = ["Krishna", "Bajrangbali", "Mahadev"]
 
 //  const newHeroes = marvel_heros.concat(dc_heroes);
 //  console.log(newHeroes);
-
  //output for line 14 and 15 ...[ 'thor', 'ironman', 'spiderman', 'flash', 'batman', 'superman' ]
  
 
